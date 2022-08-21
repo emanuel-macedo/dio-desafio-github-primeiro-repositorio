@@ -1,0 +1,11 @@
+#Anotações de como criar um repositório
+1 - Criar repositório do GitHub
+2 - Copiar link do repositório criado (clonar)
+3 - Criar pasta do computador
+4 - Acessar o git direto da pasta criada (Git Bash here)
+5 - Git clone para criar o repositório
+#Criando arquivos
+1 - Pode-se criar arquivos (como texto por exemplo) com anotações dentro da pasta do repositório
+2 - Após, digite o comando "git add ."
+3 - Para comitar, digite o comando "git commit -m" juntamente com a anotação entre aspas""
+4 - Após, dar um push, comando "git push origin main"
